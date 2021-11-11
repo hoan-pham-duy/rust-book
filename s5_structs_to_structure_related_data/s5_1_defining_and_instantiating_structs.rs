@@ -20,5 +20,5 @@ fn main() {
         String::from("someusername123"),
     );
 
-    println!("user1.email = {}", user1.email)
+    println!("user1.email = {}", user1.email);
 }
